@@ -1,6 +1,6 @@
 # Licencia MIT (MIT)
 
-## Copyright (c) <AÑO> <POSEEDOR DE DERECHOS DE AUTOR>
+## Copyright (c) (AÑO) (POSEEDOR DE DERECHOS DE AUTOR)
 
 Por la presente se concede permiso, sin cargo, a cualquier persona que obtenga una copia
 de este software y los archivos de documentación asociados (en adelante "El Software"), 
@@ -19,7 +19,7 @@ DERECHOS DE AUTOR SERÁN RESPONSABLES DE CUALQUIER RECLAMACIÓN, DAÑOS U OTRA R
 YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRA FORMA, DERIVADA DE, FUERA DE O EN 
 CONEXIÓN CON EL SOFTWARE O EL USO U OTROS TRATOS EN EL SOFTWARE.
 
-## Copyright <YEAR> <COPYRIGHT HOLDER>
+## Copyright (YEAR) (COPYRIGHT HOLDER)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
